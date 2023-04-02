@@ -1,5 +1,5 @@
+
 .container__menu-title{
-	margin: 10px 0 10px 0;
 	display: flex !important;
 	justify-content: center !important;
 }
@@ -9,5 +9,6 @@
 	padding: 20px 0;
 	border-top: 1px solid rgba(255,255,255,0.1);
 	border-bottom: 1px solid rgba(255,255,255,0.1);
+	height: 240px;
 }
 

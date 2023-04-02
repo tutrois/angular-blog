@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+	background-color: #ececec;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.test{
+	background-color: red;
+}
+
+.container__main-all{
+	margin: 0 20px;
+}

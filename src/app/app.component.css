@@ -1,5 +1,4 @@
-.container__main-app{
-	background-color: #111111;
-	color: white;
+.container__dark{
+	background-color: #121212;
+	padding: 20px 40px 40px 40px;
 }
-
