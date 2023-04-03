@@ -26,7 +26,24 @@ justify-content: center;
 	margin: 0 20px;
 }
 
+.navbar{
+	background-color: #121212;
+}
 
+box-iconvg{
+	color: #2edbe3!important;
+}
+
+div .show .social__network{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	width: 100%;
+
+}
+div .show .social__network li{
+	padding: 0 5px;
+}
 
 /*
 .header {
