@@ -10,7 +10,9 @@ import 'boxicons';
 export class AppComponent {
 	_BASEURL:string = environment.BaseUrl;
 	constructor() {
-     // Logs false for development environment
+    console.log(environment.production);
+    console.log(environment.BaseUrl);
+		 // Logs false for development environment
   }
 
   title = 'blog-proj';
