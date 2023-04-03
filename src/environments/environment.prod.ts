@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+	BaseUrl: 'https://tutrois.github.io/angular-blog/'
 };
